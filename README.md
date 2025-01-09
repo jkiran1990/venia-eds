@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.aem.page/
-- Live: https://main--{repo}--{owner}.aem.live/
+- Preview: https://main--venia-eds--jkiran1990.aem.page/
+- Live: https://main--venia-eds--jkiran1990.aem.live/
 
 ## Documentation
 
